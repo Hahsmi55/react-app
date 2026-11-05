@@ -1,7 +1,6 @@
 .env.*
 node_modules
 /LICENSE
-/README.md
 .DS_Store
 .idea/
 .vscode/
