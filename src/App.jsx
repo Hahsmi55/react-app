@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="app">
       <nav className="navbar">
-        <div className="logo"><span className="logo-icon">⚡</span> ONE COMMIT</div>
+        <div className="logo"><span className="logo-icon">⚡</span>CI CD</div>
         <div className="nav-right"><span className="live-indicator" /> SYSTEM OPERATIONAL</div>
       </nav>
 
