@@ -18,7 +18,7 @@ function App() {
       <main className="container">
         <section className="hero">
           <div className="badge"><span className="live-indicator" /> CONTINUOUS INTEGRATION &amp; DELIVERY</div>
-          <h1>One Commit.<br /><span>To Production</span></h1>
+          <h1>One Commit.<br /><span>Direct To Production</span></h1>
           <p>From a single Git commit to a running production application. No manual builds. No manual deployments. Just automation.</p>
           <div className="hero-buttons">
             <a href="#pipeline" className="primary-btn">Explore Pipeline →</a>
